@@ -1,6 +1,6 @@
 # European Call Option Pricing: Classical vs Quantum Approaches
 
-Introduction:
+# Introduction:
 This project explores two approaches to pricing a European Call Option:
 1.Classical Monte Carlo Simulation: A statistical method using random sampling to estimate the option price.
 2.Quantum Algorithm: Utilizing Quantum Amplitude Estimation (QAE) for efficient and accurate pricing.
